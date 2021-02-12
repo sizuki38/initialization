@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 sudo apt update
 sudo apt upgrade
 wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
