@@ -7,3 +7,6 @@ mecabと辞書のneologdをインストールできる.
 anacondaのインストールからjupyter-notebook をリモートで動かせる状態にまで設定をする.
 表示されているURL（外部接続の場合は ipアドレス:port）でjupyter-notebookにアクセスできる.
 アクセスしたら token= に続いている文字列をコピーしてweb下部にあるTokenの欄にペースト、パスワードを設定すればセッティングは完了
+
+# aaa
+aaaaa
