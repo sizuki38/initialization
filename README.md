@@ -3,3 +3,4 @@ mecabと辞書のneologdをインストールできる.
 対応OSはWindowsとubuntu. windowsの場合はWSL上で開けば C: ドライブ直下にインストールされる
 
 #install_Anaconda
+anacondaのインストールからjupyter-notebook をリモートで動かせる状態にまで設定をする
