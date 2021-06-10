@@ -1,3 +1,5 @@
-# インストーラー
-install_mecab_neologd はmecabと辞書のneologdをインストールできる.
-対応OSはWindowsとubuntu. windowsの場合はWSL上で開けばUser
+#install_mecab_neologd
+mecabと辞書のneologdをインストールできる.
+対応OSはWindowsとubuntu. windowsの場合はWSL上で開けば C: ドライブ直下にインストールされる
+
+#install_Anaconda
