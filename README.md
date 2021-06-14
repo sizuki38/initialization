@@ -8,5 +8,6 @@ anacondaのインストールからjupyter-notebook をリモートで動かせ�
 表示されているURL（外部接続の場合は ipアドレス:port）でjupyter-notebookにアクセスできる.
 アクセスしたら token= に続いている文字列をコピーしてweb下部にあるTokenの欄にペースト、パスワードを設定すればセッティングは完了
 
-# aaa
-aaaaa
+# ssh-config
+sshで外部pcにアクセスした際にホームディレクトリに直下に.sshというファイルができる
+その中にこの.ssh-configをconfigという名前にして置いておくと接続時にユーザー名とIPアドレスを入力する手間が省ける
