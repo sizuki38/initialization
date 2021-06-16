@@ -1,7 +1,0 @@
-Host remote1
-  HostName {Host IPaddress}
-  User {Username}
-
-Host remote2
-  HostName {Host IPaddress}
-  User {Username}
